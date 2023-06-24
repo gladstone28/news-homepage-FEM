@@ -80,8 +80,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Example resource 1](https://codepen.io/gladstone2/pen/WNYrBML/5557f7b34655bcba501e545e1483d339) - This helped me to understand Semantic HTML and CSS-Grid. I really liked this will use it going forward.
 - [Example resource 2](https://www.pexels.com/) - This is free source of stock photos.
 - [Example resource 3](https://placeimg.com/) - This is a source of placeholder images.
-- [Example resource 4](https://fonts.google.com/) - Google fonts
-
+- [Example resource 4](https://fonts.google.com/) - Google fonts.
+- [Example resource 5](https://loremipsum.io/generator/) - Placeholder text.
 
 
 ## Author
